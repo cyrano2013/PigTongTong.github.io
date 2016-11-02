@@ -10,5 +10,7 @@ title:            HaYuneJ
 description:      'Hyoil & TechPang Dev'
 baseurl:          /
 
+paginate:         5
+
 github:
   repo:           https://github.com/PigTongTong
